@@ -35,6 +35,8 @@
 **Скрін 2.2** — три послідовні оновлення сторінки з різними hostname:
 
 ![three different hostnames](images/task2_2.jpg)
+![three different hostnames](images/task2_3.jpg)
+![three different hostnames](images/task2_4.jpg)
 
 **Який тип балансування використовує nginx і чому користувач бачить різний hostname:**
 
